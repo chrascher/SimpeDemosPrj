@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Equals/HashCodeBuilder (Apache commons-lang 3) equals">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Equals/HashCodeBuilder (Apache commons-lang 3) hashCode">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Equals/HashCodeBuilder (Apache commons-lang) equals">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Equals/HashCodeBuilder (Apache commons-lang) hashCode">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/IntelliJ Default equals">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/IntelliJ Default hashCode">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Objects.equal and hashCode (Guava) equals">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Objects.equal and hashCode (Guava) hashCode">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/java.util.Objects.equals and hashCode (java 7+) equals">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/java.util.Objects.equals and hashCode (java 7+) hashCode">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SimpleDemos/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SimpleDemos/src/main/java/at/cgs/test/simple/hash/Test2DTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SimpleDemos/src/main/java/at/cgs/test/simple/hash/TestDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SimpleDemos/src/test/java/at/cgs/test/simple/AppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
